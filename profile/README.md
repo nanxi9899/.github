@@ -8,15 +8,16 @@
 ## Application - 应用
 * [RRManager](https://github.com/T-REX-XP/RRManager)
 
-
-## Document - 文档
-* [rr-docs](https://rrorg.github.io/rr-docs/)
+## Blog - 博客
+* [blog](https://rrorg.cn)
 
 ## Group - 群组
-* `Github` [`Discussions`](https://github.com/orgs/RROrg/discussions)
-* `QQ群1: 21609194` [`点击加入QQ群`](https://qm.qq.com/q/YTPvSXfeU0)
-* `QQ群2: 73119176` [`点击加入QQ群`](https://qm.qq.com/q/YV1B0NFvWK)
-* `QQ群3: 51929774` [`点击加入QQ群`](https://qm.qq.com/q/aVjM3Wb6KY)
-* `QQ群4: 49756829` [`点击加入QQ群`](https://qm.qq.com/q/9PHzmZDkqI)
-* `QQ Channel: RROrg` [`点击加入QQ频道`](https://pd.qq.com/s/aklqb0uij)
-* `TG Channel: RROrg` [`Join telegram`](https://t.me/RR_Org)
+- `Github` [`Discussions`](https://github.com/orgs/RROrg/discussions)
+- `QQ群1: 21609194` [`点击加入QQ群`](https://qm.qq.com/q/YTPvSXfeU0)
+- `QQ群2: 73119176` [`点击加入QQ群`](https://qm.qq.com/q/YV1B0NFvWK)
+- `QQ群3: 51929774` [`点击加入QQ群`](https://qm.qq.com/q/aVjM3Wb6KY)
+- `QQ群4: 49756829` [`点击加入QQ群`](https://qm.qq.com/q/9PHzmZDkqI)
+- `QQ群5: 30267817` [`点击加入QQ群`](https://qm.qq.com/q/6RgVDfOSXe)
+- `QQ群6: 68640297` [`点击加入QQ群`](https://qm.qq.com/q/PU71eSXAic)
+- `QQ Channel: RROrg` [`点击加入QQ频道`](https://pd.qq.com/s/aklqb0uij)
+- `Telegram Channel: RROrg` [`Click to join`](https://t.me/RROrg_rr)
